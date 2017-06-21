@@ -1,0 +1,25 @@
+
+table {
+  width: 500px;
+}		
+tr>th {
+  text-align: right;
+  width: 50%;
+}
+tr {
+   font-size: 24px;
+   height: 50px;
+}
+input, select#input3 {
+  width: 50%;
+  font-size: 24px;
+  padding-left: 10px;
+  font-weight: 500;
+}
+select#input3 {
+  width: 54%;
+}
+td#value1 {
+  font-size: 24px;
+  font-weight: 900;
+}
